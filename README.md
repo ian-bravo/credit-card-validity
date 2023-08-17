@@ -17,7 +17,7 @@ apply the algo
     .
 
 verify that sum of all digits do not end in 0 & inputted number needs to be 15 or 16 digits
-
+  
 ```
 TESTS:
 
