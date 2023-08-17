@@ -34,5 +34,5 @@ Test #2: It should select every other digit starting from the right and store as
 Code:
 const multiDigitNumber = "1234567890123456";
 Expected Output:
-["2", "4", "6", "8", "0", "2", "4", "6"];
+['5', '3', '1', '9', '7', '5', '3', '1']
 ```

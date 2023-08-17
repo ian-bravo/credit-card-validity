@@ -5,7 +5,7 @@ function luhnsAlgorithm(number) {
   let splitArr = number.split("");
   const everyOtherDigitArray = [];
 
-  for (let i = splitArr.length-1; i >= 0; i -= 2) {
+  for (let i = splitArr.length-2; i >= 0; i -= 2) {
     everyOtherDigitArray.push(splitArr[i]);
   }
   console.log(everyOtherDigitArray);
