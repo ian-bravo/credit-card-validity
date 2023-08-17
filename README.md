@@ -29,4 +29,10 @@ const multiDigitNumber = "1234567890123456";
 luhnsAlgorithm(multiDigitNumber);
 Expected Output: 
 ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "1", "2", "3", "4", "5", "6"];
+
+Test #2: It should select every other digit starting from the right and store as a new array.
+Code:
+const multiDigitNumber = "1234567890123456";
+Expected Output:
+["2", "4", "6", "8", "0", "2", "4", "6"];
 ```
